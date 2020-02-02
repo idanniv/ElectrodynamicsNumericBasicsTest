@@ -6,9 +6,9 @@ This repository includes:
  3. Documentation explaining the numerical methods
 ## Files
 ### Integrators
-The integrator code is in C++14 and is accompanied with a Python 3.6 module generated via SIPS. This is in **QtGUI/Integrators** folder.
+The integrator code is in C++14 and is accompanied=S. This is in **QtGUI/Integrators** folder.
 ### QtGUI
-The provided GUI is written in Qt 5.14 and uses the external library (in the repository) QCustomPlot, both under the GPL licence. The build provided is for Windows 64 bit with the added necessary Qt DLLs. Building for other systems can be done using qt libraries. This is in **QtGUI** folder.
+The provided GUI is written in Qt 5.14 and uses the external library (in the repository) QCustomPlot, both under the GPL licence. The build provided is for Windows 64 bit. Building for other systems can be done using qt libraries. This is in **QtGUI** folder.
 ### Documentation
 The documentation is PDF file with brief explanation of the used methods and what can be learned applying them. The file contains relevant references for further explanation. The file is under **Documentation** folder.
 ## Future improvements
