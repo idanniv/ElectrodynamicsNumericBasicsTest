@@ -13,7 +13,11 @@ The provided GUI is written in Qt 5.14 and uses the external library (in the rep
 The documentation is PDF file with brief explanation of the used methods and what can be learned applying them. The file contains relevant references for further explanation. The file is under **Documentation** folder.
 ## Future improvements
 The C++ could use expression templates or std::ranges for delayed evaluation. This would prevent the memory allocation of intermediate temporaries and provide a significant speed improvement.
+
 Make a C++ extension to a python module and benchmark improvements.
+
 The GUI could be more stable by running the computation on a different thread. Running the GUI with extreme parameter values could cause a crash.
+
 When GUI saving the figure also print the parameters used.
+
 GUI implement a play button for continously integrating and displayin animation.
